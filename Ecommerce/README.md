@@ -1,4 +1,4 @@
-# 📚 ecommerce SQL Analysis Project
+# 📚 Ecommerce SQL Analysis Project
 
 ## 📌 Overview
 
