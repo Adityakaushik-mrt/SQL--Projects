@@ -250,4 +250,5 @@ Aspiring Data Analyst | SQL | Power BI | Python
 ## ⭐ If you found this project useful
 
 Give it a ⭐ on GitHub and feel free to connect!
+
 ---
