@@ -1,0 +1,501 @@
+product_id,name,category,price,stock_quantity
+1,Beauty & Care Plus Item-1,Beauty & Care,6315.21,97
+2,Beauty & Care Plus Item-2,Beauty & Care,732.43,276
+3,Apparel Elite Item-3,Apparel,6914.47,100
+4,Sports & Fitness Eco Item-4,Sports & Fitness,1038.64,317
+5,Home & Kitchen Max Item-5,Home & Kitchen,6386.27,64
+6,Beauty & Care Classic Item-6,Beauty & Care,2683.41,432
+7,Apparel Classic Item-7,Apparel,6834.18,117
+8,Sports & Fitness Eco Item-8,Sports & Fitness,6565.53,296
+9,Beauty & Care Max Item-9,Beauty & Care,9075.61,482
+10,Electronics Max Item-10,Electronics,395.33,424
+11,Beauty & Care Pro Item-11,Beauty & Care,1837.72,428
+12,Beauty & Care Prime Item-12,Beauty & Care,3492.99,101
+13,Furniture Max Item-13,Furniture,7258.78,130
+14,Footwear Classic Item-14,Footwear,7643.58,15
+15,Apparel Max Item-15,Apparel,3870.03,41
+16,Footwear Plus Item-16,Footwear,8266.92,226
+17,Furniture Pro Item-17,Furniture,7305.81,334
+18,Home & Kitchen Classic Item-18,Home & Kitchen,1342.37,187
+19,Electronics Prime Item-19,Electronics,5022.81,302
+20,Furniture Classic Item-20,Furniture,5418.04,420
+21,Beauty & Care Plus Item-21,Beauty & Care,9286.01,224
+22,Furniture Classic Item-22,Furniture,1658.35,189
+23,Apparel Eco Item-23,Apparel,1685.18,185
+24,Beauty & Care Classic Item-24,Beauty & Care,8996.96,176
+25,Footwear Eco Item-25,Footwear,7621.45,479
+26,Apparel Ultra Item-26,Apparel,482.02,308
+27,Furniture Plus Item-27,Furniture,6600.12,76
+28,Beauty & Care Eco Item-28,Beauty & Care,966.94,31
+29,Furniture Pro Item-29,Furniture,3941.11,346
+30,Apparel Plus Item-30,Apparel,7899.0,19
+31,Furniture Plus Item-31,Furniture,5680.54,49
+32,Footwear Elite Item-32,Footwear,5922.14,180
+33,Apparel Classic Item-33,Apparel,968.15,376
+34,Footwear Max Item-34,Footwear,4719.44,382
+35,Electronics Prime Item-35,Electronics,1741.5,73
+36,Furniture Prime Item-36,Furniture,5763.51,259
+37,Books & Stationery Pro Item-37,Books & Stationery,5308.22,133
+38,Furniture Lite Item-38,Furniture,4667.15,169
+39,Apparel Pro Item-39,Apparel,3738.32,430
+40,Furniture Classic Item-40,Furniture,5521.2,74
+41,Home & Kitchen Elite Item-41,Home & Kitchen,6972.61,320
+42,Sports & Fitness Prime Item-42,Sports & Fitness,4497.14,112
+43,Home & Kitchen Plus Item-43,Home & Kitchen,3765.59,495
+44,Home & Kitchen Plus Item-44,Home & Kitchen,3917.55,188
+45,Sports & Fitness Eco Item-45,Sports & Fitness,1218.3,426
+46,Sports & Fitness Elite Item-46,Sports & Fitness,8792.03,180
+47,Sports & Fitness Classic Item-47,Sports & Fitness,6387.23,100
+48,Furniture Elite Item-48,Furniture,1838.87,306
+49,Electronics Max Item-49,Electronics,7978.95,153
+50,Beauty & Care Lite Item-50,Beauty & Care,9478.54,195
+51,Sports & Fitness Elite Item-51,Sports & Fitness,8177.56,194
+52,Home & Kitchen Ultra Item-52,Home & Kitchen,8643.0,287
+53,Sports & Fitness Max Item-53,Sports & Fitness,7460.59,468
+54,Beauty & Care Max Item-54,Beauty & Care,7895.72,55
+55,Footwear Lite Item-55,Footwear,4706.61,188
+56,Apparel Eco Item-56,Apparel,7342.67,225
+57,Beauty & Care Eco Item-57,Beauty & Care,6056.87,272
+58,Books & Stationery Elite Item-58,Books & Stationery,7243.02,435
+59,Apparel Classic Item-59,Apparel,3468.76,425
+60,Footwear Plus Item-60,Footwear,8583.96,219
+61,Books & Stationery Lite Item-61,Books & Stationery,1207.44,44
+62,Home & Kitchen Max Item-62,Home & Kitchen,2223.61,303
+63,Apparel Max Item-63,Apparel,5383.93,49
+64,Sports & Fitness Lite Item-64,Sports & Fitness,3923.84,171
+65,Books & Stationery Max Item-65,Books & Stationery,7934.0,437
+66,Footwear Pro Item-66,Footwear,6722.57,186
+67,Furniture Ultra Item-67,Furniture,9629.35,472
+68,Home & Kitchen Plus Item-68,Home & Kitchen,4687.17,267
+69,Electronics Max Item-69,Electronics,8226.4,441
+70,Sports & Fitness Eco Item-70,Sports & Fitness,8962.34,167
+71,Furniture Elite Item-71,Furniture,1415.95,270
+72,Footwear Classic Item-72,Footwear,879.52,211
+73,Electronics Eco Item-73,Electronics,9210.64,363
+74,Footwear Ultra Item-74,Footwear,199.13,476
+75,Furniture Lite Item-75,Furniture,8352.41,92
+76,Footwear Classic Item-76,Footwear,704.92,109
+77,Home & Kitchen Elite Item-77,Home & Kitchen,7226.24,42
+78,Apparel Prime Item-78,Apparel,3697.4,350
+79,Sports & Fitness Prime Item-79,Sports & Fitness,9929.03,231
+80,Home & Kitchen Lite Item-80,Home & Kitchen,7702.5,328
+81,Beauty & Care Lite Item-81,Beauty & Care,3619.81,200
+82,Apparel Elite Item-82,Apparel,6679.0,425
+83,Home & Kitchen Lite Item-83,Home & Kitchen,9659.08,383
+84,Sports & Fitness Max Item-84,Sports & Fitness,8556.86,164
+85,Books & Stationery Ultra Item-85,Books & Stationery,2064.18,85
+86,Furniture Pro Item-86,Furniture,4357.67,256
+87,Electronics Max Item-87,Electronics,2322.38,359
+88,Home & Kitchen Max Item-88,Home & Kitchen,8219.74,267
+89,Sports & Fitness Ultra Item-89,Sports & Fitness,2158.02,207
+90,Furniture Eco Item-90,Furniture,7785.19,287
+91,Home & Kitchen Lite Item-91,Home & Kitchen,7135.75,206
+92,Furniture Pro Item-92,Furniture,8797.95,216
+93,Home & Kitchen Pro Item-93,Home & Kitchen,2028.54,218
+94,Home & Kitchen Ultra Item-94,Home & Kitchen,8180.15,70
+95,Beauty & Care Lite Item-95,Beauty & Care,3387.4,476
+96,Sports & Fitness Classic Item-96,Sports & Fitness,2678.45,109
+97,Beauty & Care Eco Item-97,Beauty & Care,509.52,436
+98,Apparel Eco Item-98,Apparel,4922.59,484
+99,Books & Stationery Lite Item-99,Books & Stationery,7770.51,54
+100,Apparel Ultra Item-100,Apparel,9593.58,83
+101,Footwear Lite Item-101,Footwear,6090.24,63
+102,Sports & Fitness Classic Item-102,Sports & Fitness,9476.14,300
+103,Apparel Max Item-103,Apparel,4032.63,146
+104,Home & Kitchen Eco Item-104,Home & Kitchen,4430.26,357
+105,Books & Stationery Pro Item-105,Books & Stationery,328.39,47
+106,Footwear Prime Item-106,Footwear,6259.39,28
+107,Beauty & Care Max Item-107,Beauty & Care,1494.13,247
+108,Footwear Lite Item-108,Footwear,1734.18,91
+109,Footwear Pro Item-109,Footwear,796.13,435
+110,Furniture Eco Item-110,Furniture,1178.02,280
+111,Apparel Prime Item-111,Apparel,5010.75,106
+112,Home & Kitchen Max Item-112,Home & Kitchen,8874.43,384
+113,Footwear Eco Item-113,Footwear,9827.8,393
+114,Footwear Lite Item-114,Footwear,3570.81,63
+115,Footwear Ultra Item-115,Footwear,8618.7,230
+116,Electronics Prime Item-116,Electronics,2672.92,43
+117,Sports & Fitness Lite Item-117,Sports & Fitness,3613.97,492
+118,Footwear Classic Item-118,Footwear,8743.3,66
+119,Furniture Plus Item-119,Furniture,3230.43,196
+120,Books & Stationery Eco Item-120,Books & Stationery,8117.66,213
+121,Furniture Eco Item-121,Furniture,4637.39,294
+122,Furniture Prime Item-122,Furniture,8180.09,119
+123,Electronics Eco Item-123,Electronics,4560.68,160
+124,Apparel Ultra Item-124,Apparel,8055.13,459
+125,Furniture Elite Item-125,Furniture,2911.91,157
+126,Apparel Pro Item-126,Apparel,2937.97,71
+127,Sports & Fitness Elite Item-127,Sports & Fitness,5911.04,15
+128,Beauty & Care Plus Item-128,Beauty & Care,1686.89,339
+129,Beauty & Care Ultra Item-129,Beauty & Care,6571.12,377
+130,Apparel Max Item-130,Apparel,2180.26,120
+131,Beauty & Care Ultra Item-131,Beauty & Care,884.97,334
+132,Apparel Pro Item-132,Apparel,426.52,74
+133,Footwear Max Item-133,Footwear,418.13,199
+134,Books & Stationery Eco Item-134,Books & Stationery,5480.33,229
+135,Books & Stationery Eco Item-135,Books & Stationery,5819.88,114
+136,Apparel Plus Item-136,Apparel,5846.66,462
+137,Sports & Fitness Prime Item-137,Sports & Fitness,2848.21,155
+138,Sports & Fitness Plus Item-138,Sports & Fitness,9993.87,325
+139,Footwear Max Item-139,Footwear,8246.2,83
+140,Furniture Plus Item-140,Furniture,621.76,394
+141,Home & Kitchen Ultra Item-141,Home & Kitchen,1098.86,183
+142,Electronics Classic Item-142,Electronics,6545.75,430
+143,Furniture Max Item-143,Furniture,5350.83,380
+144,Footwear Classic Item-144,Footwear,1912.27,236
+145,Beauty & Care Lite Item-145,Beauty & Care,6422.41,165
+146,Footwear Pro Item-146,Footwear,4918.85,349
+147,Footwear Pro Item-147,Footwear,8276.67,446
+148,Home & Kitchen Pro Item-148,Home & Kitchen,6826.23,264
+149,Electronics Eco Item-149,Electronics,938.71,312
+150,Home & Kitchen Ultra Item-150,Home & Kitchen,5507.66,421
+151,Beauty & Care Plus Item-151,Beauty & Care,8809.81,218
+152,Electronics Pro Item-152,Electronics,9565.43,37
+153,Apparel Pro Item-153,Apparel,8748.36,221
+154,Home & Kitchen Ultra Item-154,Home & Kitchen,7802.63,82
+155,Footwear Eco Item-155,Footwear,5690.41,266
+156,Footwear Lite Item-156,Footwear,7160.7,72
+157,Electronics Classic Item-157,Electronics,7290.81,248
+158,Books & Stationery Classic Item-158,Books & Stationery,9478.85,316
+159,Footwear Lite Item-159,Footwear,1801.45,464
+160,Footwear Classic Item-160,Footwear,451.76,384
+161,Apparel Eco Item-161,Apparel,8407.44,350
+162,Electronics Elite Item-162,Electronics,9785.74,476
+163,Books & Stationery Lite Item-163,Books & Stationery,1948.49,455
+164,Footwear Plus Item-164,Footwear,8667.88,310
+165,Sports & Fitness Prime Item-165,Sports & Fitness,5790.97,319
+166,Electronics Classic Item-166,Electronics,5626.74,10
+167,Furniture Plus Item-167,Furniture,4172.77,257
+168,Furniture Prime Item-168,Furniture,1657.22,343
+169,Footwear Classic Item-169,Footwear,1462.57,89
+170,Electronics Plus Item-170,Electronics,2257.83,440
+171,Footwear Prime Item-171,Footwear,9757.17,310
+172,Home & Kitchen Plus Item-172,Home & Kitchen,8002.21,398
+173,Home & Kitchen Lite Item-173,Home & Kitchen,3149.12,164
+174,Home & Kitchen Prime Item-174,Home & Kitchen,7399.81,384
+175,Footwear Plus Item-175,Footwear,8623.47,152
+176,Furniture Elite Item-176,Furniture,8922.31,147
+177,Home & Kitchen Pro Item-177,Home & Kitchen,1840.37,475
+178,Books & Stationery Plus Item-178,Books & Stationery,9950.37,354
+179,Apparel Plus Item-179,Apparel,748.02,244
+180,Sports & Fitness Eco Item-180,Sports & Fitness,7937.75,439
+181,Footwear Max Item-181,Footwear,5638.45,94
+182,Home & Kitchen Plus Item-182,Home & Kitchen,576.46,143
+183,Footwear Max Item-183,Footwear,5880.7,480
+184,Furniture Elite Item-184,Furniture,3270.76,97
+185,Beauty & Care Prime Item-185,Beauty & Care,9608.72,310
+186,Electronics Classic Item-186,Electronics,7246.03,235
+187,Footwear Classic Item-187,Footwear,7403.39,397
+188,Sports & Fitness Ultra Item-188,Sports & Fitness,5330.51,154
+189,Apparel Lite Item-189,Apparel,8899.99,277
+190,Apparel Eco Item-190,Apparel,1021.97,412
+191,Books & Stationery Elite Item-191,Books & Stationery,647.57,10
+192,Furniture Prime Item-192,Furniture,8165.24,379
+193,Furniture Plus Item-193,Furniture,1281.1,197
+194,Furniture Lite Item-194,Furniture,1359.67,49
+195,Sports & Fitness Ultra Item-195,Sports & Fitness,3311.18,294
+196,Furniture Ultra Item-196,Furniture,3830.25,124
+197,Books & Stationery Eco Item-197,Books & Stationery,6070.18,491
+198,Furniture Plus Item-198,Furniture,946.71,242
+199,Sports & Fitness Classic Item-199,Sports & Fitness,8014.84,135
+200,Footwear Eco Item-200,Footwear,2884.6,410
+201,Apparel Plus Item-201,Apparel,7769.45,442
+202,Apparel Ultra Item-202,Apparel,9011.14,298
+203,Beauty & Care Prime Item-203,Beauty & Care,8511.61,20
+204,Furniture Classic Item-204,Furniture,5285.57,260
+205,Electronics Plus Item-205,Electronics,4022.8,394
+206,Books & Stationery Plus Item-206,Books & Stationery,2172.19,500
+207,Books & Stationery Elite Item-207,Books & Stationery,4423.45,51
+208,Sports & Fitness Elite Item-208,Sports & Fitness,8638.99,450
+209,Apparel Prime Item-209,Apparel,9837.59,95
+210,Sports & Fitness Plus Item-210,Sports & Fitness,4078.3,348
+211,Furniture Prime Item-211,Furniture,9357.68,59
+212,Beauty & Care Prime Item-212,Beauty & Care,1848.43,483
+213,Furniture Elite Item-213,Furniture,3800.6,57
+214,Apparel Max Item-214,Apparel,8463.2,398
+215,Electronics Plus Item-215,Electronics,5828.57,200
+216,Footwear Elite Item-216,Footwear,3464.18,356
+217,Home & Kitchen Prime Item-217,Home & Kitchen,9900.58,340
+218,Furniture Plus Item-218,Furniture,2942.56,63
+219,Beauty & Care Max Item-219,Beauty & Care,6055.1,207
+220,Books & Stationery Plus Item-220,Books & Stationery,4181.4,258
+221,Electronics Prime Item-221,Electronics,3345.21,426
+222,Home & Kitchen Prime Item-222,Home & Kitchen,9786.82,349
+223,Beauty & Care Eco Item-223,Beauty & Care,6357.32,263
+224,Furniture Pro Item-224,Furniture,3104.98,150
+225,Sports & Fitness Prime Item-225,Sports & Fitness,1137.36,104
+226,Electronics Pro Item-226,Electronics,2025.32,432
+227,Furniture Classic Item-227,Furniture,5782.67,385
+228,Electronics Classic Item-228,Electronics,604.91,495
+229,Sports & Fitness Classic Item-229,Sports & Fitness,1133.55,280
+230,Footwear Elite Item-230,Footwear,2678.09,348
+231,Electronics Plus Item-231,Electronics,1578.47,39
+232,Beauty & Care Prime Item-232,Beauty & Care,3261.51,486
+233,Furniture Prime Item-233,Furniture,4748.37,439
+234,Beauty & Care Pro Item-234,Beauty & Care,5838.32,264
+235,Furniture Max Item-235,Furniture,8300.53,269
+236,Apparel Pro Item-236,Apparel,8664.5,487
+237,Sports & Fitness Classic Item-237,Sports & Fitness,5827.48,411
+238,Sports & Fitness Max Item-238,Sports & Fitness,8127.0,463
+239,Apparel Plus Item-239,Apparel,1994.61,287
+240,Books & Stationery Pro Item-240,Books & Stationery,9176.21,86
+241,Electronics Elite Item-241,Electronics,9266.89,286
+242,Furniture Lite Item-242,Furniture,7663.19,114
+243,Home & Kitchen Max Item-243,Home & Kitchen,3831.51,214
+244,Books & Stationery Prime Item-244,Books & Stationery,1081.56,386
+245,Electronics Elite Item-245,Electronics,8611.56,283
+246,Furniture Elite Item-246,Furniture,6536.29,351
+247,Electronics Classic Item-247,Electronics,1511.4,181
+248,Home & Kitchen Plus Item-248,Home & Kitchen,5592.3,147
+249,Beauty & Care Lite Item-249,Beauty & Care,745.94,282
+250,Apparel Pro Item-250,Apparel,9260.34,471
+251,Books & Stationery Ultra Item-251,Books & Stationery,2903.35,91
+252,Footwear Max Item-252,Footwear,4660.57,257
+253,Beauty & Care Elite Item-253,Beauty & Care,6781.48,319
+254,Home & Kitchen Lite Item-254,Home & Kitchen,8610.26,121
+255,Sports & Fitness Max Item-255,Sports & Fitness,8283.02,371
+256,Sports & Fitness Eco Item-256,Sports & Fitness,8632.64,311
+257,Home & Kitchen Classic Item-257,Home & Kitchen,2683.93,189
+258,Sports & Fitness Pro Item-258,Sports & Fitness,9737.13,324
+259,Furniture Plus Item-259,Furniture,6946.2,475
+260,Home & Kitchen Lite Item-260,Home & Kitchen,4925.88,178
+261,Beauty & Care Classic Item-261,Beauty & Care,980.67,161
+262,Beauty & Care Max Item-262,Beauty & Care,6965.43,104
+263,Home & Kitchen Plus Item-263,Home & Kitchen,2663.77,267
+264,Electronics Eco Item-264,Electronics,9277.81,431
+265,Beauty & Care Pro Item-265,Beauty & Care,6606.49,394
+266,Sports & Fitness Prime Item-266,Sports & Fitness,4135.03,359
+267,Beauty & Care Prime Item-267,Beauty & Care,9197.24,352
+268,Sports & Fitness Max Item-268,Sports & Fitness,5811.88,150
+269,Sports & Fitness Eco Item-269,Sports & Fitness,1141.26,157
+270,Beauty & Care Classic Item-270,Beauty & Care,3515.69,455
+271,Apparel Lite Item-271,Apparel,9644.3,236
+272,Sports & Fitness Max Item-272,Sports & Fitness,4556.48,435
+273,Footwear Plus Item-273,Footwear,6942.27,484
+274,Electronics Prime Item-274,Electronics,9374.58,495
+275,Beauty & Care Plus Item-275,Beauty & Care,8842.88,323
+276,Sports & Fitness Max Item-276,Sports & Fitness,2146.27,49
+277,Beauty & Care Prime Item-277,Beauty & Care,2568.61,328
+278,Beauty & Care Ultra Item-278,Beauty & Care,8996.64,329
+279,Electronics Pro Item-279,Electronics,5378.36,347
+280,Furniture Eco Item-280,Furniture,7595.69,288
+281,Beauty & Care Prime Item-281,Beauty & Care,2968.82,424
+282,Furniture Prime Item-282,Furniture,6977.05,25
+283,Furniture Classic Item-283,Furniture,5067.19,269
+284,Footwear Plus Item-284,Footwear,9324.98,426
+285,Electronics Eco Item-285,Electronics,3933.55,418
+286,Sports & Fitness Eco Item-286,Sports & Fitness,8835.5,329
+287,Sports & Fitness Classic Item-287,Sports & Fitness,200.71,206
+288,Home & Kitchen Classic Item-288,Home & Kitchen,6906.22,244
+289,Apparel Pro Item-289,Apparel,6753.34,361
+290,Sports & Fitness Prime Item-290,Sports & Fitness,1424.2,44
+291,Home & Kitchen Lite Item-291,Home & Kitchen,5087.5,441
+292,Electronics Lite Item-292,Electronics,6604.75,441
+293,Footwear Plus Item-293,Footwear,8242.9,302
+294,Electronics Plus Item-294,Electronics,1759.3,345
+295,Home & Kitchen Ultra Item-295,Home & Kitchen,8795.72,108
+296,Sports & Fitness Eco Item-296,Sports & Fitness,3030.48,129
+297,Apparel Eco Item-297,Apparel,6822.62,45
+298,Home & Kitchen Plus Item-298,Home & Kitchen,8878.51,13
+299,Sports & Fitness Pro Item-299,Sports & Fitness,4929.48,382
+300,Apparel Pro Item-300,Apparel,1815.98,124
+301,Electronics Plus Item-301,Electronics,9862.65,322
+302,Footwear Pro Item-302,Footwear,256.64,481
+303,Apparel Max Item-303,Apparel,9299.69,31
+304,Apparel Classic Item-304,Apparel,466.87,450
+305,Furniture Plus Item-305,Furniture,4723.38,336
+306,Books & Stationery Plus Item-306,Books & Stationery,9402.04,368
+307,Apparel Max Item-307,Apparel,4019.4,491
+308,Electronics Pro Item-308,Electronics,3248.37,148
+309,Electronics Eco Item-309,Electronics,6463.56,398
+310,Footwear Lite Item-310,Footwear,5989.12,32
+311,Books & Stationery Eco Item-311,Books & Stationery,7839.59,479
+312,Apparel Lite Item-312,Apparel,7979.12,189
+313,Furniture Classic Item-313,Furniture,4182.64,463
+314,Apparel Prime Item-314,Apparel,9504.99,131
+315,Footwear Elite Item-315,Footwear,7046.48,55
+316,Electronics Prime Item-316,Electronics,5796.51,191
+317,Apparel Plus Item-317,Apparel,9246.11,377
+318,Electronics Prime Item-318,Electronics,1060.93,111
+319,Footwear Ultra Item-319,Footwear,3953.51,33
+320,Furniture Classic Item-320,Furniture,7113.73,130
+321,Home & Kitchen Pro Item-321,Home & Kitchen,9739.1,480
+322,Electronics Plus Item-322,Electronics,6758.75,489
+323,Home & Kitchen Elite Item-323,Home & Kitchen,1809.66,23
+324,Books & Stationery Ultra Item-324,Books & Stationery,2208.08,251
+325,Furniture Pro Item-325,Furniture,4799.01,212
+326,Beauty & Care Classic Item-326,Beauty & Care,8400.33,68
+327,Books & Stationery Lite Item-327,Books & Stationery,9601.35,253
+328,Electronics Plus Item-328,Electronics,8910.25,159
+329,Beauty & Care Pro Item-329,Beauty & Care,1250.04,93
+330,Footwear Eco Item-330,Footwear,9882.58,471
+331,Footwear Max Item-331,Footwear,1285.58,426
+332,Electronics Pro Item-332,Electronics,2539.39,390
+333,Apparel Plus Item-333,Apparel,3312.61,288
+334,Sports & Fitness Ultra Item-334,Sports & Fitness,7620.87,181
+335,Home & Kitchen Elite Item-335,Home & Kitchen,1115.92,372
+336,Home & Kitchen Classic Item-336,Home & Kitchen,7047.79,328
+337,Apparel Ultra Item-337,Apparel,4035.25,462
+338,Footwear Plus Item-338,Footwear,9668.48,446
+339,Footwear Pro Item-339,Footwear,9584.08,415
+340,Electronics Lite Item-340,Electronics,3757.64,465
+341,Furniture Max Item-341,Furniture,6881.86,26
+342,Electronics Max Item-342,Electronics,6063.95,81
+343,Home & Kitchen Eco Item-343,Home & Kitchen,3581.46,56
+344,Apparel Classic Item-344,Apparel,4696.35,434
+345,Books & Stationery Prime Item-345,Books & Stationery,7840.69,349
+346,Electronics Max Item-346,Electronics,5073.33,163
+347,Footwear Lite Item-347,Footwear,5876.24,429
+348,Apparel Ultra Item-348,Apparel,3047.9,227
+349,Electronics Max Item-349,Electronics,4111.82,37
+350,Electronics Plus Item-350,Electronics,2158.61,208
+351,Apparel Pro Item-351,Apparel,5555.13,81
+352,Sports & Fitness Eco Item-352,Sports & Fitness,4584.87,372
+353,Electronics Plus Item-353,Electronics,3759.57,82
+354,Sports & Fitness Elite Item-354,Sports & Fitness,7095.06,425
+355,Beauty & Care Eco Item-355,Beauty & Care,8627.33,275
+356,Beauty & Care Prime Item-356,Beauty & Care,2763.96,59
+357,Books & Stationery Ultra Item-357,Books & Stationery,6115.84,78
+358,Electronics Elite Item-358,Electronics,3041.52,211
+359,Footwear Plus Item-359,Footwear,4809.77,452
+360,Footwear Plus Item-360,Footwear,8818.48,286
+361,Apparel Lite Item-361,Apparel,5463.67,496
+362,Beauty & Care Ultra Item-362,Beauty & Care,9726.31,100
+363,Beauty & Care Plus Item-363,Beauty & Care,6816.26,225
+364,Electronics Pro Item-364,Electronics,9723.49,211
+365,Electronics Plus Item-365,Electronics,1850.05,474
+366,Apparel Pro Item-366,Apparel,3897.58,205
+367,Books & Stationery Lite Item-367,Books & Stationery,2146.49,428
+368,Furniture Lite Item-368,Furniture,1767.74,487
+369,Footwear Prime Item-369,Footwear,8266.36,200
+370,Electronics Prime Item-370,Electronics,8466.61,89
+371,Books & Stationery Eco Item-371,Books & Stationery,2310.72,410
+372,Furniture Plus Item-372,Furniture,1234.45,119
+373,Footwear Classic Item-373,Footwear,5173.76,349
+374,Home & Kitchen Lite Item-374,Home & Kitchen,9108.7,254
+375,Apparel Elite Item-375,Apparel,6848.53,83
+376,Footwear Pro Item-376,Footwear,258.42,80
+377,Books & Stationery Max Item-377,Books & Stationery,9039.51,216
+378,Beauty & Care Classic Item-378,Beauty & Care,3236.96,342
+379,Home & Kitchen Plus Item-379,Home & Kitchen,6490.64,224
+380,Electronics Lite Item-380,Electronics,4507.23,69
+381,Footwear Eco Item-381,Footwear,3904.17,307
+382,Beauty & Care Eco Item-382,Beauty & Care,2606.69,497
+383,Sports & Fitness Prime Item-383,Sports & Fitness,5157.46,196
+384,Sports & Fitness Plus Item-384,Sports & Fitness,7551.73,95
+385,Footwear Plus Item-385,Footwear,9715.08,289
+386,Electronics Classic Item-386,Electronics,3146.12,433
+387,Footwear Plus Item-387,Footwear,7256.07,303
+388,Footwear Elite Item-388,Footwear,5482.96,285
+389,Apparel Pro Item-389,Apparel,3380.61,82
+390,Beauty & Care Plus Item-390,Beauty & Care,1940.5,265
+391,Electronics Lite Item-391,Electronics,245.15,34
+392,Sports & Fitness Elite Item-392,Sports & Fitness,557.07,134
+393,Sports & Fitness Prime Item-393,Sports & Fitness,9148.93,333
+394,Apparel Eco Item-394,Apparel,6388.25,34
+395,Books & Stationery Plus Item-395,Books & Stationery,5403.61,142
+396,Electronics Max Item-396,Electronics,8634.83,373
+397,Furniture Classic Item-397,Furniture,5628.09,25
+398,Electronics Max Item-398,Electronics,4962.95,138
+399,Home & Kitchen Classic Item-399,Home & Kitchen,5584.71,135
+400,Apparel Eco Item-400,Apparel,8624.0,79
+401,Footwear Elite Item-401,Footwear,276.76,59
+402,Books & Stationery Max Item-402,Books & Stationery,2303.92,451
+403,Books & Stationery Max Item-403,Books & Stationery,4023.58,209
+404,Electronics Elite Item-404,Electronics,3218.34,295
+405,Footwear Pro Item-405,Footwear,3026.74,54
+406,Apparel Pro Item-406,Apparel,5823.84,96
+407,Apparel Plus Item-407,Apparel,5006.35,389
+408,Footwear Lite Item-408,Footwear,8941.62,298
+409,Electronics Elite Item-409,Electronics,5767.52,236
+410,Beauty & Care Classic Item-410,Beauty & Care,9139.34,411
+411,Footwear Classic Item-411,Footwear,1314.33,55
+412,Books & Stationery Pro Item-412,Books & Stationery,6068.19,350
+413,Electronics Lite Item-413,Electronics,202.63,15
+414,Furniture Plus Item-414,Furniture,8456.47,451
+415,Sports & Fitness Prime Item-415,Sports & Fitness,2187.71,12
+416,Apparel Ultra Item-416,Apparel,6564.11,350
+417,Furniture Ultra Item-417,Furniture,1315.86,255
+418,Books & Stationery Ultra Item-418,Books & Stationery,4286.55,123
+419,Books & Stationery Elite Item-419,Books & Stationery,2984.31,70
+420,Footwear Pro Item-420,Footwear,968.02,238
+421,Apparel Classic Item-421,Apparel,8508.99,122
+422,Footwear Classic Item-422,Footwear,9215.56,110
+423,Apparel Pro Item-423,Apparel,5539.86,17
+424,Electronics Classic Item-424,Electronics,9131.51,71
+425,Apparel Plus Item-425,Apparel,3696.53,53
+426,Home & Kitchen Prime Item-426,Home & Kitchen,3257.04,152
+427,Furniture Lite Item-427,Furniture,3259.85,206
+428,Home & Kitchen Classic Item-428,Home & Kitchen,1211.53,284
+429,Electronics Lite Item-429,Electronics,4716.21,388
+430,Sports & Fitness Max Item-430,Sports & Fitness,5913.18,452
+431,Beauty & Care Lite Item-431,Beauty & Care,7429.75,157
+432,Electronics Lite Item-432,Electronics,226.39,414
+433,Books & Stationery Eco Item-433,Books & Stationery,3027.9,467
+434,Footwear Max Item-434,Footwear,3167.56,99
+435,Sports & Fitness Prime Item-435,Sports & Fitness,9744.01,17
+436,Books & Stationery Pro Item-436,Books & Stationery,6908.99,307
+437,Apparel Max Item-437,Apparel,3675.25,171
+438,Furniture Prime Item-438,Furniture,9206.62,39
+439,Furniture Plus Item-439,Furniture,3081.57,459
+440,Home & Kitchen Pro Item-440,Home & Kitchen,1392.66,186
+441,Books & Stationery Elite Item-441,Books & Stationery,2052.86,94
+442,Books & Stationery Classic Item-442,Books & Stationery,722.71,294
+443,Electronics Pro Item-443,Electronics,9035.35,299
+444,Books & Stationery Eco Item-444,Books & Stationery,7201.79,130
+445,Footwear Eco Item-445,Footwear,4601.52,304
+446,Home & Kitchen Plus Item-446,Home & Kitchen,9142.99,156
+447,Furniture Elite Item-447,Furniture,2000.99,456
+448,Books & Stationery Plus Item-448,Books & Stationery,5383.01,153
+449,Footwear Max Item-449,Footwear,7816.26,65
+450,Electronics Elite Item-450,Electronics,6116.29,301
+451,Apparel Elite Item-451,Apparel,5360.01,79
+452,Footwear Max Item-452,Footwear,7515.99,245
+453,Beauty & Care Ultra Item-453,Beauty & Care,4809.05,15
+454,Electronics Prime Item-454,Electronics,3126.41,126
+455,Footwear Prime Item-455,Footwear,1899.28,284
+456,Beauty & Care Plus Item-456,Beauty & Care,8200.2,123
+457,Furniture Classic Item-457,Furniture,9921.34,328
+458,Sports & Fitness Max Item-458,Sports & Fitness,1066.87,470
+459,Electronics Pro Item-459,Electronics,1906.15,345
+460,Books & Stationery Prime Item-460,Books & Stationery,4289.39,210
+461,Books & Stationery Classic Item-461,Books & Stationery,798.26,458
+462,Electronics Pro Item-462,Electronics,9857.56,399
+463,Sports & Fitness Pro Item-463,Sports & Fitness,7898.4,88
+464,Footwear Ultra Item-464,Footwear,8934.52,418
+465,Footwear Eco Item-465,Footwear,9276.0,245
+466,Electronics Lite Item-466,Electronics,2173.99,245
+467,Beauty & Care Ultra Item-467,Beauty & Care,2506.92,466
+468,Books & Stationery Max Item-468,Books & Stationery,4653.8,287
+469,Beauty & Care Pro Item-469,Beauty & Care,1716.73,470
+470,Home & Kitchen Prime Item-470,Home & Kitchen,7905.83,213
+471,Footwear Prime Item-471,Footwear,3581.14,421
+472,Books & Stationery Eco Item-472,Books & Stationery,8162.55,225
+473,Electronics Eco Item-473,Electronics,4297.32,266
+474,Footwear Prime Item-474,Footwear,6301.48,201
+475,Sports & Fitness Pro Item-475,Sports & Fitness,4830.58,18
+476,Electronics Ultra Item-476,Electronics,7708.58,22
+477,Electronics Eco Item-477,Electronics,9150.54,45
+478,Beauty & Care Prime Item-478,Beauty & Care,6425.58,348
+479,Footwear Pro Item-479,Footwear,9565.21,107
+480,Footwear Lite Item-480,Footwear,5205.62,136
+481,Footwear Pro Item-481,Footwear,4000.0,387
+482,Footwear Prime Item-482,Footwear,6578.94,411
+483,Beauty & Care Elite Item-483,Beauty & Care,9066.19,472
+484,Sports & Fitness Ultra Item-484,Sports & Fitness,322.48,191
+485,Beauty & Care Pro Item-485,Beauty & Care,8787.67,477
+486,Home & Kitchen Prime Item-486,Home & Kitchen,9524.97,299
+487,Apparel Plus Item-487,Apparel,6550.82,245
+488,Footwear Eco Item-488,Footwear,6635.81,348
+489,Books & Stationery Lite Item-489,Books & Stationery,3207.62,228
+490,Footwear Plus Item-490,Footwear,1232.7,332
+491,Home & Kitchen Ultra Item-491,Home & Kitchen,7055.9,205
+492,Apparel Eco Item-492,Apparel,9608.88,93
+493,Apparel Plus Item-493,Apparel,5685.39,271
+494,Home & Kitchen Max Item-494,Home & Kitchen,3573.94,322
+495,Electronics Lite Item-495,Electronics,6702.94,446
+496,Apparel Plus Item-496,Apparel,2786.49,383
+497,Electronics Max Item-497,Electronics,4248.99,436
+498,Beauty & Care Pro Item-498,Beauty & Care,6884.43,223
+499,Beauty & Care Max Item-499,Beauty & Care,3186.27,336
+500,Electronics Classic Item-500,Electronics,9839.38,291
