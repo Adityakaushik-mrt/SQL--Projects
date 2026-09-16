@@ -4,10 +4,3 @@ Welcome to my SQL repository! This space showcases my database management skills
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── queries/         # Ad-hoc queries, CTEs, and window functions
-├── schemas/         # Database design, ERds, and DDL scripts
-├── projects/        # End-to-end data analysis and reporting projects
-└── README.md        # You are here!
