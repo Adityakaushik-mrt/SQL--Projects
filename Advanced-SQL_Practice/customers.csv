@@ -1,0 +1,13 @@
+customer_id,customer_name,gender,city,registration_date,customer_type
+1001,Amit Sharma,Male,Delhi,2024-01-15,Retail
+1002,Priya Verma,Female,Mumbai,2024-02-10,Retail
+1003,Rahul Singh,Male,Jaipur,2024-03-05,Corporate
+1004,Neha Gupta,Female,Lucknow,2024-03-18,Retail
+1005,Vikas Kumar,Male,Noida,2024-04-02,Corporate
+1006,Sneha Kapoor,Female,Pune,2024-04-25,Retail
+1007,Arjun Mehta,Male,Bengaluru,2024-05-12,Corporate
+1008,Kavita Joshi,Female,Chandigarh,2024-06-08,Retail
+1009,Suresh Yadav,Male,Patna,2024-06-20,Retail
+1010,Pooja Malhotra,Female,Gurugram,2024-07-01,Corporate
+1011,Rohit Bansal,Male,Kolkata,2024-07-15,Corporate
+1012,Anjali Sharma,Female,Delhi,2024-08-03,Retail
