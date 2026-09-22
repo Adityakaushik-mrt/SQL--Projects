@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,ship_city,status,sales_channel
+5001,1001,2024-08-05,Delhi,Completed,Online
+5002,1002,2024-08-07,Mumbai,Completed,Online
+5003,1003,2024-08-10,Jaipur,Completed,Sales Team
+5004,1004,2024-08-12,Lucknow,Completed,Online
+5005,1005,2024-08-15,Noida,Completed,Sales Team
+5006,1006,2024-08-18,Pune,Cancelled,Online
+5007,1007,2024-08-20,Bengaluru,Completed,Sales Team
+5008,1008,2024-08-22,Chandigarh,Completed,Online
+5009,1009,2024-08-25,Patna,Pending,Online
+5010,1010,2024-08-27,Gurugram,Completed,Sales Team
+5011,1011,2024-09-02,Kolkata,Completed,Online
+5012,1012,2024-09-05,Delhi,Completed,Online
+5013,1001,2024-09-08,Delhi,Completed,Online
+5014,1003,2024-09-10,Jaipur,Completed,Sales Team
+5015,1005,2024-09-12,Noida,Completed,Sales Team

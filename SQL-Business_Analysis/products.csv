@@ -1,0 +1,11 @@
+product_id,product_name,category,subcategory,unit_price,stock_qty
+201,Laptop Pro 14,Electronics,Premium Laptop,75000,10
+202,Office Laptop 15,Electronics,Laptop,52000,15
+203,Wireless Mouse,Accessories,Mouse,1200,50
+204,Mechanical Keyboard,Accessories,Keyboard,3500,35
+205,24 Inch Monitor,Electronics,Monitor,14500,20
+206,27 Inch Monitor,Electronics,Monitor,22000,12
+207,Office Chair,Furniture,Chair,9500,18
+208,USB-C Hub,Accessories,Hub,2800,40
+209,Printer,Electronics,Printer,18500,8
+210,Headset,Accessories,Headset,4200,30
