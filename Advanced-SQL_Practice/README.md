@@ -1,7 +1,7 @@
 # 📊 Advanced SQL Analytics Project – Intelligence
 
 ## 🔍 Project Overview
-This project analyzes e-commerce transaction data using Advanced SQL to extract meaningful business insights such as customer spending behavior, revenue performance, category rankings, and time-series trends[]. It simulates production-grade analytical scenarios commonly encountered in data analyst and business intelligence roles[, 3].
+This project analyzes data using Advanced SQL to extract meaningful business insights such as customer spending behavior, revenue performance, category rankings, and time-series trends[]. It simulates production-grade analytical scenarios commonly encountered in data analyst and business intelligence roles[, 3].
 
 ---
 
