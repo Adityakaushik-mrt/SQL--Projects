@@ -102,5 +102,5 @@ Data Analyst | Oracle Utility | MIS Executive | Excel | Power Query | SQL | Powe
 > **Airline Flight & Booking Data Analysis using SQL | Revenue, Bookings, Cancellations, Passenger Behavior & MoM Growth Analysis**
 
 Your SQL file specifically includes advanced analytical techniques such as window functions, CTEs, `DENSE_RANK()`, `ROW_NUMBER()`, `LAG()`, and monthly revenue/MoM calculations, so I have highlighted those rather than describing techniques that aren't demonstrated in the file. 
-If you give me your **actual GitHub repository link**, I can also insert it directly into the LinkedIn post and README.
+
 ```
